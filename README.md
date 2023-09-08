@@ -1,5 +1,5 @@
 # Stock Picker implemented with Ruby
-Implement a method #stock_picker that takes in an array of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
+Implement a method `#stock_picker` that takes in an array of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
 
 - Developer: [David M. O'Mullan](https://github.com/davidomullan)
 - Guidelines: [The Odin Project](https://www.theodinproject.com/lessons/ruby-stock-picker)
